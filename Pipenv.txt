@@ -1,0 +1,2 @@
+pipenv shell --Crea nuevo ambiente. Se crea estando dentro de la carpeta
+pipenv install <cosa a instalar, ej: pandas> --instala pandas en ambiente virtual
