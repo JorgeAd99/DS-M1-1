@@ -1,0 +1,7 @@
+df.describe() #estadísticas del df
+df.info() #descripción de los tipos de datos del df, cuenta cuantos non-null hay
+df.shape #filas,columnas
+df.columns #retorna las columnas
+
+import os
+os.getcwd() #obtener directorio actual
